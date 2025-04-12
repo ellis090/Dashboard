@@ -1,2 +1,2 @@
 
-# ** Ellis's Landing Page **
+**Ellis's Landing Page**
